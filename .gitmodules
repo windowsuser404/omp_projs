@@ -1,0 +1,12 @@
+[submodule "Louvian"]
+	path = Louvian
+	url = https://github.com/windowsuser404/Louvian.git
+[submodule "Maxflow"]
+	path = Maxflow
+	url = https://github.com/windowsuser404/Maxflow.git
+[submodule "sssp"]
+	path = sssp
+	url = https://github.com/windowsuser404/sssp.git
+[submodule "K_core"]
+	path = K_core
+	url = https://github.com/windowsuser404/K_core.git
